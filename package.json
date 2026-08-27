@@ -1,0 +1,29 @@
+{
+  "name": "ai-lead-qualification-tool",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.56.0",
+    "groq-sdk": "^1.6.0",
+    "lucide-react": "^0.468.0",
+    "next": "15.5.2",
+    "react": "19.1.0",
+    "react-dom": "19.1.0",
+    "zod": "^4.0.17"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4.1.12",
+    "@types/node": "^20.17.30",
+    "@types/react": "^19.1.10",
+    "@types/react-dom": "^19.1.7",
+    "postcss": "^8.5.6",
+    "tailwindcss": "^4.1.12",
+    "typescript": "^5.8.3"
+  }
+}
