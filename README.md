@@ -128,11 +128,3 @@ Recommended deployment:
    - ambiguous/medium lead
    - weak/low-intent lead
 
-## Assessment submission
-
-Use this format:
-
-- Live application: `https://YOUR-VERCEL-DOMAIN`
-- GitHub repository: `https://github.com/YOUR_USERNAME/ai-lead-qualification-tool`
-- Database snapshot: `supabase/schema.sql` + screenshot of the Supabase table/schema
-- Technical decisions: see the "Why this architecture?" section above
